@@ -1,6 +1,6 @@
 # Atividade_4_web1
-Repositório sobre uma champions diferenciada
-Luiz Felipe Pereira de Lima
+Repositório sobre uma champions diferenciada!
+Nome: Luiz Felipe Pereira de Lima
 
 # Instruções para a atividade
 
